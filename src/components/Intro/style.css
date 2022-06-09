@@ -12,3 +12,7 @@
   background-image: url('./IrF.webp');
   background-attachment: fixed;
 }
+
+.textareaHiddenScrollBar::-webkit-scrollbar{
+  display: none; 
+}
